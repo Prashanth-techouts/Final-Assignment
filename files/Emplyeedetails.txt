@@ -1,0 +1,6 @@
+Employee class Details file
+Class name=Employee;
+this class contains the following methods
+creatinfile method
+readfile method
+writefile method
